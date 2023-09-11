@@ -2,8 +2,11 @@
 #Observação: Existe uma implementação na biblioteca sympy do Python chamada
 #limit_seq (Clique aqui ). A construção da sua função pode ser feita de maneira
 #similar.
+
 #(a) Caso lim an = L ∈ R, a função deve retornar o valor com aproximação de 2 casas decimais.
+
 #(b) Caso lim an = ∞, a função deve retornar “infinito”.
+
 #(c) Caso lim an não existir, a função deve retornar “não existe”.
 
 import sympy as sp
