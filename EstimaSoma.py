@@ -1,6 +1,6 @@
 #2. (1 ponto) (Estimando a soma de uma série) Conhecendo a desiguladade:
 
-#Sn + (Integral de n+1 até infinito) f(x) dx ≤ Sn + 1 ≤ Sn + (Integral de n até infinito) f(x) dx
+#Sn + (Integral de n+1 até infinito) f(x) dx ≤ Sn ≤ Sn + (Integral de n até infinito) f(x) dx
 
 #Implemente uma função chamada estimador que suporte como entrada an e retorne uma
 #aproximação da série convergente (Somatório de n=1 até Infinito) an.
